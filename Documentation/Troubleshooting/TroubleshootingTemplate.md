@@ -51,10 +51,10 @@ Badge Assets
 [badge-privacy-internal]: https://img.shields.io/badge/Privacy%20Tag-Internal%20Only-red?style=flat-square
 
 <!-- Level Tags -->
-[badge-level-100]: https://img.shields.io/badge/Level-100%20Foundational-blue?style=Dflat-square
+[badge-level-100]: https://img.shields.io/badge/Level-100%20Foundational-blue?style=flat-square
 
-[badge-level-200]: https://img.shields.io/badge/Level-200%20Specialist-orange?style=Dflat-square
+[badge-level-200]: https://img.shields.io/badge/Level-200%20Specialist-orange?style=flat-square
 
-[badge-level-300]: https://img.shields.io/badge/Level-300%20Advanced-red?style=Dflat-square
+[badge-level-300]: https://img.shields.io/badge/Level-300%20Advanced-red?style=flat-square
 
-[badge-level-400]: https://img.shields.io/badge/Level-400%20Expert-lightgrey?style=Dflat-square
+[badge-level-400]: https://img.shields.io/badge/Level-400%20Expert-lightgrey?style=flat-square
