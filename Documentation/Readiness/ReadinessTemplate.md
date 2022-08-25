@@ -38,6 +38,31 @@ Some information on the scenario
 | --------- | --------- | --------- | --------- |
 | SAMPLE 1 | TBD | TBD |N/A |
 
+---
+## Readiness Resources
+Summary of resources that are available to ger more in-depth knowledge of this feature<br>
+[Cloud Academy Learning Path](https://docs.microsoft.com/) • [Demo Video 1](https://docs.microsoft.com/) •[Demo Video 2](https://docs.microsoft.com/) • [Demo Video 3](https://docs.microsoft.com/) 
+
+## TSG's and related information
+Summary of guides for Troubleshooting and more content around this topic. You can find known issue [here](#known-issues)
+<details>
+  <summary>Offical Documentation</summary>
+  <ul>
+    <li><a href="https://docs.microsoft.com">Microsoft Docs</a></li>
+    <li><a href="https://kubernetes.io/de/docs/home/">Kubernetes Docs</a></li>
+    <li><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github">Markdown Docs</a></li> 
+  </ul>
+</details>
+
+<details>
+  <summary>Other References</summary>
+  <ul>
+    <li><a href="https://docs.microsoft.com">Microsoft Docs</a></li>
+    <li><a href="https://kubernetes.io/de/docs/home/">Kubernetes Docs</a></li>
+    <li><a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github">Markdown Docs</a></li> 
+  </ul>
+</details>
+
 <!-- ===========[PAGE END]=========== --->
 <!-- 
 ====
