@@ -18,7 +18,7 @@ Just download the folder and rename the template file to match your project and 
 
 ## Component overview
 
-### **Badges**
+### **Badges / Tags**
 *OS Version Tags:*<br>
 ![OSRelease][badge-osrelease-22h2]
 ![OSRelease][badge-osrelease-21h2]
