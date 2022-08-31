@@ -35,7 +35,7 @@ Just download the folder and rename the template file to match your project and 
 ![Level-300][badge-level-300]
 ![Level-400][badge-level-400]
 
-*Technology Tags:*
+*Technology Tags:*  
 ![Tech-PowerShell][technology-powershell]
 ![Tech-NET][technology-net]
 ![Tech-javascript][technology-javascript]
