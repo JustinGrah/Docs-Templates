@@ -120,6 +120,12 @@ Badge Assets
 
 [badge-level-400]: https://img.shields.io/badge/Level-400%20Expert-lightgrey?style=flat-square
 
+<!-- Technology Tags -->
+[technology-powershell]: https://img.shields.io/badge/PowerShell-gray?style=flat-square&logo=PowerShell
+[technology-net]: https://img.shields.io/badge/.NET-gray?style=flat-square&logo=dotnet
+[technology-json]: https://img.shields.io/badge/json-gray?style=flat-square&logo=json
+[technology-javascript]: https://img.shields.io/badge/Javascript-gray?style=flat-square&logo=JavaScript
+
 <!-- 
 ====
 Images 

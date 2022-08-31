@@ -1,4 +1,4 @@
-# FEATURE NAME - Research notes
+# PROJECT NAME - Project information
 ![AuthorBadge][badge-author]
 ![OSRelease][badge-osrelease-22h2]
 ![PrivacyTag][badge-privacy-general]

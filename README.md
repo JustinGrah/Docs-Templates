@@ -35,6 +35,12 @@ Just download the folder and rename the template file to match your project and 
 ![Level-300][badge-level-300]
 ![Level-400][badge-level-400]
 
+*Technology Tags:*
+![Tech-PowerShell][technology-powershell]
+![Tech-NET][technology-net]
+![Tech-javascript][technology-javascript]
+![Tech-JSON][technology-json]
+
 *Custom Tags:*<br>
 ![Author-justingrah][badge-author]
 
@@ -75,3 +81,10 @@ Badge Assets
 [badge-level-300]: https://img.shields.io/badge/Level-300%20Advanced-red?style=flat-square
 
 [badge-level-400]: https://img.shields.io/badge/Level-400%20Expert-lightgrey?style=flat-square
+
+
+<!-- Technology Tags -->
+[technology-powershell]: https://img.shields.io/badge/PowerShell-gray?style=flat-square&logo=PowerShell
+[technology-net]: https://img.shields.io/badge/.NET-gray?style=flat-square&logo=dotnet
+[technology-json]: https://img.shields.io/badge/json-gray?style=flat-square&logo=json
+[technology-javascript]: https://img.shields.io/badge/Javascript-gray?style=flat-square&logo=JavaScript
