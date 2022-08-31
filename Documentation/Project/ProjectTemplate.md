@@ -1,8 +1,6 @@
 # PROJECT NAME - Project information
 ![AuthorBadge][badge-author]
-![OSRelease][badge-osrelease-22h2]
 ![PrivacyTag][badge-privacy-general]
-![LevelTag][badge-level-400]
 
 ## Code references
 * [Referenced Sample Repo 1](https://github.com) -> Communications with SDK 1
@@ -16,14 +14,40 @@
 * [Architecture overview 2](https://www.microsoft.com/en-us/microsoft-365/word)
 * [Dependencie overview](https://www.microsoft.com/en-us/microsoft-365/word)
 
-## Other information
-Some other information that would be good to have before diving into the commands etc.
+## Description
+This section should describe the issue that the project is trying to solve.
+
+## Usage
+Here it should be made clear on how to use this project to solve some issue. This should be procedural like:
+
+### Installation
+Here you should list all steps you have to take to install this tool. Start by step 1 and finish when the tool / project can be launched
+
+### Configuration
+If there is any configuration, you should describe each option like:  
+| Option | Description | Default Value | Type |
+|---------|-------------|---------------|------|
+| Language |Which language should be used in the tool|DE|2 letter country code (string)|
+| Keyboard |Which keyboard are you using |Mechanical|string|
+
+### Updating and Maintaining
+Here we should putinformation on how to maintain the tool (if needed). Also helping infomration on how to update would be great to list here!
+
+**Maintainenance**  
+This tool requires regular cleanup in the folder C:\Temp\RandomData since we are afraid of deleting files!
+
+**Update**
+This tool will not receive any updates. If an update is released (out of whatever reason), you would have to replace it!
+
+### Telemetry
+If we are sending Telemetry data, we should point out where!
 
 ---
-## Commands / Outputs
+## Demo
+Here we should hand out a couple of "demos" or "how-to's" to guide the new person on how todo things
 
-### controller.exe -?
-**Description**: Used to generate a help message forthe tool
+### Start the application
+**Description**: This is how you would start a application
 ```
 Sample Output:
 
@@ -33,7 +57,7 @@ controller.exe -?
 ```
 **Notes**: This could be anything that would be worth pointing out
 
-### controller.exe show alphabet count
+### Render languages 
 **Description**: Used to list the alphabet
 ```
 Sample Output:
@@ -50,6 +74,11 @@ Any scenario that would be worth pointing out
 ### Invalid output
 When using `controller.exe show alphabet count` it does not account for special letters like `ü,ä,ö,ß`  
 You would have to change the lanugage settings using `controller.exe change alphabet lang=german`
+
+---
+## Contact and other information
+For assistance and troubleshooting, please file a bug in github.  
+**Please note:** I'm / we are not responsible for any harm that this code might do to your system. I / we highly encourage you to first understand the code before running it. Also you should have a backup just in case! If this scared you, you might not want to run this code...
 
 <!-- ===========[PAGE END]=========== --->
 <!-- 
